@@ -1,0 +1,18 @@
+[
+  {
+    "referenceNumber": "ABCD",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "dateOfBirth": "1996-04-23",
+    "phoneNumber": 12345678,
+    "address": "The Cottage"
+  },
+  {
+    "referenceNumber": "DEFG",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dateOfBirth": "1996-08-27",
+    "phoneNumber": 87654321,
+    "address": "The Cottage"
+  }
+]

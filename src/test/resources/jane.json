@@ -1,0 +1,8 @@
+{
+  "referenceNumber": "ABCD",
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "dateOfBirth": "1996-04-23",
+  "phoneNumber": 12345678,
+  "address": "The Cottage"
+}
