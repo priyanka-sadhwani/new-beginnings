@@ -3,9 +3,11 @@ A service to handle the participant registry with APIs to support adding, retrie
 
 #### Instructions
 This project uses Maven with Java 11. Make sure you are using Java 11 or higher, both on the module settings and intellij Java compiler settings. Otherwise you will see this error when you run: 
+
 Error:(52, 48) java: cannot find symbol
   symbol:   method readString(java.nio.file.Path)
   location: class java.nio.file.Files
+  
 Run the command 'mvn clean compile' or use the Maven tool window to clean and compile the project. 
 To run the service, simply run RegistryApp.java. The APIs are hosted on http://localhost:8080. 6 APIs exists:
 
